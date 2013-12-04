@@ -1,17 +1,1 @@
-<xml version='1.0' encoding='UTF-8'><root><body>1.	DOS FATOS – No dia 01/05/2011, por volta das 14h00, na Rua Cel. Pompeu,  foram presos WESCLEY SOUSA SILVA, 21 anos, natural de Aracati, filho de Maria da Conceição Sousa Silva, residente na Rua Barão de Messejana, nº. 1607, em Aracati, e DIOGO SANTOS DA COSTA, 18 anos, natural de Aracati, filho de Paulo Diogo Emidio da Costa e Lourdes Sousa Santos, residente na Rua Campo Verde, nº 1462, em Aracati, os dois estavam de posse da motocicleta Honda CG 125 FAN, cor vermelha, ano 2010, placa NUR-2666, que após consulta no sistema de informações policiais, verificou-se que havia sido furtada no dia 26/04/11, de Fortim.2.	AÇÃO PM – A RD 2773, Sd Pereira e Sd Gomes, efetuaram a prisão dos infratores e conduziram a USI de Aracati, onde foram autuados por receptação (Art. 180 do CPB). .Ref. Radiograma nº 001/2011– SD DA SILVA       OP/CPI-CB VARELA</body>
-<ners>
-<ner type="LOCATION" subClass="STREET">Rua Cel. Pompeu</ner>
-<ner type="LOCATION" subClass="STREET">Rua Barão de Messejana, nº. 1607, em Aracati</ner>
-<ner type="LOCATION" subClass="STREET">Rua Campo Verde, nº 1462, em Aracati</ner>
-<ner type="LOCATION" subClass="CITY">Aracati</ner>
-<ner type="PERSON" subClass="CRIMINAL">WESCLEY SOUSA SILVA</ner> 
-<ner type="PERSON" subClass="CRIMINAL">DIOGO SANTOS DA COSTA</ner>  
-<ner type="PERSON" >Maria da Conceição Sousa Silva</ner>
-<ner type="PERSON" >Paulo Diogo Emidio da Costa</ner>
-<ner type="PERSON" >Lourdes Sousa Santos</ner>
-<ner type="PERSON" >Sd Pereira</ner>        
-<ner type="PERSON" >Sd Gomes</ner>                
-<ner type="ORGANIZATION">USI de Aracati</ner>
-</ners>
-
-</root>
+<?xml version='1.0' encoding='UTF-8'?><root><body>1.	DOS FATOS – No dia 01/05/2011, por volta das 14h00, na Rua Cel. Pompeu,  foram presos WESCLEY SOUSA SILVA, 21 anos, natural de Aracati, filho de Maria da Conceição Sousa Silva, residente na Rua Barão de Messejana, nº. 1607, em Aracati, e DIOGO SANTOS DA COSTA, 18 anos, natural de Aracati, filho de Paulo Diogo Emidio da Costa e Lourdes Sousa Santos, residente na Rua Campo Verde, nº 1462, em Aracati, os dois estavam de posse da motocicleta Honda CG 125 FAN, cor vermelha, ano 2010, placa NUR-2666, que após consulta no sistema de informações policiais, verificou-se que havia sido furtada no dia 26/04/11, de Fortim.2.	AÇÃO PM – A RD 2773, Sd Pereira e Sd Gomes, efetuaram a prisão dos infratores e conduziram a USI de Aracati, onde foram autuados por receptação (Art. 180 do CPB). .Ref. Radiograma nº 001/2011– SD DA SILVA       OP/CPI-CB VARELA</body><ners><ner type="LOCATION" subClass="STREET">Rua Cel. Pompeu</ner><ner type="LOCATION" subClass="STREET">Rua Barão de Messejana, nº. 1607, em Aracati</ner><ner type="LOCATION" subClass="STREET">Rua Campo Verde, nº 1462, em Aracati</ner><ner type="LOCATION" subClass="CITY">Aracati</ner><ner type="PERSON" subClass="CRIMINAL">WESCLEY SOUSA SILVA</ner> <ner type="PERSON" subClass="CRIMINAL">DIOGO SANTOS DA COSTA</ner>  <ner type="PERSON" >Maria da Conceição Sousa Silva</ner><ner type="PERSON" >Paulo Diogo Emidio da Costa</ner><ner type="PERSON" >Lourdes Sousa Santos</ner><ner type="PERSON" >Sd Pereira</ner>        <ner type="PERSON" >Sd Gomes</ner>                <ner type="ORGANIZATION">USI de Aracati</ner></ners></root>

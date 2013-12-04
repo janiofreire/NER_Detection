@@ -1,11 +1,1 @@
-<xml version='1.0' encoding='UTF-8'><root><body>1.	DOS FATOS – No dia 01/05/2011, por volta das 16h30, na Rua José Lourenço Filho, nº 106, no bairro da Várzea, em Morada Nova, no Bar do Saldanha, foi preso ZULEIDE LIMA DE OLIVEIRA, 35 anos, filha de Francisco Luciano de Oliveira e Mariusa Lima de Oliveira, residente no bairro Cuaçu, em Pacajus, rua não informada, em virtude da mesma se encontrar armada com uma faca de mesa.2.	AÇÃO PM – A RD 2276, Sd 24437 Freire e Sd 25616 Sampaio, conduziu a acusada a delegacia local onde foi feito o T C O por porte ilegal de arma branca..Ref. Radiograma nº 001/2011– CB ELICILDO       OP/CPI-CB VARELA</body>
-
-<ners>
-<ner type="LOCATION" >Rua José Lourenço Filho, nº 106, no bairro da Várzea, em Morada Nova, no Bar do Saldanha</ner>
-<ner type="LOCATION" subClass="DISTRICT" >bairro Cuaçu, em Pacajus</ner>
-<ner type="PERSON" subClass="CRIMINAL">ZULEIDE LIMA DE OLIVEIRA</ner> 
-<ner type="PERSON" >Sd 24437 Freire</ner>        
-<ner type="PERSON" >Sd 25616 Sampaio</ner>                
-<ner type="ORGANIZATION">USI de Aracati</ner>
-</ners>
-</root>
+<?xml version='1.0' encoding='UTF-8'?><root><body>1.	DOS FATOS – No dia 01/05/2011, por volta das 16h30, na Rua José Lourenço Filho, nº 106, no bairro da Várzea, em Morada Nova, no Bar do Saldanha, foi preso ZULEIDE LIMA DE OLIVEIRA, 35 anos, filha de Francisco Luciano de Oliveira e Mariusa Lima de Oliveira, residente no bairro Cuaçu, em Pacajus, rua não informada, em virtude da mesma se encontrar armada com uma faca de mesa.2.	AÇÃO PM – A RD 2276, Sd 24437 Freire e Sd 25616 Sampaio, conduziu a acusada a delegacia local onde foi feito o T C O por porte ilegal de arma branca..Ref. Radiograma nº 001/2011– CB ELICILDO       OP/CPI-CB VARELA</body><ners><ner type="LOCATION" >Rua José Lourenço Filho, nº 106, no bairro da Várzea, em Morada Nova, no Bar do Saldanha</ner><ner type="LOCATION" subClass="DISTRICT" >bairro Cuaçu, em Pacajus</ner><ner type="PERSON" subClass="CRIMINAL">ZULEIDE LIMA DE OLIVEIRA</ner> <ner type="PERSON" >Francisco Luciano de Oliveira e Mariusa Lima de Oliveira</ner> <ner type="PERSON" >Sd 24437 Freire</ner>        <ner type="PERSON" >Sd 25616 Sampaio</ner>                </ners></root>
